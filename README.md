@@ -27,3 +27,8 @@ In the near future, the Spanish property options will be added to a website wher
 ### RESQ-DAO Partners with All For Climate for Fiscal Transparency
 See the [full announcement](https://opencollective.com/resq-dao/updates/all-for-climate-and-resq-dao-working-together-for-a-sustainable-future), All For Climate is our Fiscal Host. They're working with climate justice groups like #FridaysForFuture #ParentsForFuture and #ExtinctionRebellion. Over the next few weeks, we'll be transfering all of RESQ's budget onto OpenCollective.  
 
+
+## Donate to RESQ
+Ethereum Address: [0x54dd3364BE1816A7717D60ac6EF3a0E1B06Bf167](https://etherscan.io/address/0x54dd3364be1816a7717d60ac6ef3a0e1b06bf167)
+Bitcoin Address: [1PX4c2Sc4ZZWPMJR4pkZGQcaibdZVzpJD3](https://www.blockchain.com/btc/address/1PX4c2Sc4ZZWPMJR4pkZGQcaibdZVzpJD3)
+OpenCollective: [RESQ-DAO](https://opencollective.com/resq-dao#section-contribute)
