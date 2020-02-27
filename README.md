@@ -29,6 +29,6 @@ See the [full announcement](https://opencollective.com/resq-dao/updates/all-for-
 
 
 ## Donate to RESQ
-Ethereum Address: [0x54dd3364BE1816A7717D60ac6EF3a0E1B06Bf167](https://etherscan.io/address/0x54dd3364be1816a7717d60ac6ef3a0e1b06bf167)
-Bitcoin Address: [1PX4c2Sc4ZZWPMJR4pkZGQcaibdZVzpJD3](https://www.blockchain.com/btc/address/1PX4c2Sc4ZZWPMJR4pkZGQcaibdZVzpJD3)
+Ethereum Address: [0x54dd3364BE1816A7717D60ac6EF3a0E1B06Bf167](https://etherscan.io/address/0x54dd3364be1816a7717d60ac6ef3a0e1b06bf167)<br />
+Bitcoin Address: [1PX4c2Sc4ZZWPMJR4pkZGQcaibdZVzpJD3](https://www.blockchain.com/btc/address/1PX4c2Sc4ZZWPMJR4pkZGQcaibdZVzpJD3)<br />
 OpenCollective: [RESQ-DAO](https://opencollective.com/resq-dao#section-contribute)
