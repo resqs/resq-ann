@@ -9,12 +9,12 @@ RESQ has created an Ethereum ERC-20 token [RESQ Contract Address](https://ethers
 We pay in RESQ tokens and appreciation. Or, if you prefer, we also pay in animal love and a cleaner planet.
 
 #### What Blockchain?
-A multi-blockchain solution seems best for the various aspects of developing RESQ. As such, RESQ will definitely...
-- use the STEEM blockchain to blog updates and announcements (Coming Soon)
-- use ETH to create a smart contract for the RESQ DAO (see below) for funding the development of the RESQ token and onsite kennel related projects... token holders vote on projects (RESQ token = done; RESQ-DAO token = in progress)
-- use ShapeShift/Uniswap to exchange a variety of altcoin donations for RESQ tokens
-- post on STEEM any facility plans and roadmaps, self-sufficiency POAs (rescue homesteading, etc.) and PSA about dogs.
-- use DTUBE to publish "dog handling" and other educational videos onto STEEM.
+A multi-blockchain solution seems best for the various aspects of developing RESQ. As such, RESQ will...
+- use STEEM? to blog updates and announcements (Coming Soon)
+- use ETH to create a smart contract for the RESQ DAO (see below) for funding the development of the RESQ token and onsite kennel related projects... token holders vote on projects ([RESQ token](https://etherscan.io/token/0x82b5590ecc9231b3a3f518b907557b5961f14242) = done; RESQ-DAO token = in progress)
+- use ShapeShift/Uniswap to exchange a variety of altcoin donations for RESQ tokens?
+- post on STEEM? any facility plans and roadmaps, self-sufficiency POAs (rescue homesteading, etc.) and PSA about dogs
+- use DTUBE? to publish "dog handling" and other educational videos onto STEEM?.
 
 #### Where is this happening?
 Since the RESQ Dev Team is currently working with rescue dogs in Spain, the property search is limited to Spanish coastal and southern areas. Once we find a suitable location to purchase and transform into RESQ Kennels, we'll start laying out the plans for converting the property into a self-sufficient retreat. 
